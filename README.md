@@ -252,7 +252,7 @@ Publish the website in the LocalHost.
 </section>
 
 <!-- Footer -->
-<footer class="bg-dark text-white text-center py-3">
+<footer class="bg-dark text-white text-center py-3">  
   <p class="mb-0">&copy; 2025 TechNova Solutions. All rights reserved.</p>
 </footer>
 
